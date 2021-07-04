@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XuserD
-- 👀 I’m interested in ...
-- 🌱 I’m currently studying in BBIS
+- 👀 I’m interested in cryptography
+- 🌱 I'm currently studying in Germany
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me leontiimaksimov@protonmail.com, lmaksimov@protonmail.ch, leontiimaksimov@tutanota.com
 
