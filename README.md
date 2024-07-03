@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Maksimov
-- 👀 I’m interested in cryptography
-- 🌱 I'm currently studying in Germany
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - add note on linkedin (Leontii Maksimov)
+Add me on linkedin - Leontii Maksimov
