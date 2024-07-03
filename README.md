@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @XuserD
+- 👋 Hi, I’m Maksimov
 - 👀 I’m interested in cryptography
 - 🌱 I'm currently studying in Germany
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me leontiimaksimov@protonmail.com, lmaksimov@protonmail.ch, leontiimaksimov@tutanota.com
-
-<!---
-XuserD/XuserD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me - add note on linkedin (Leontii Maksimov)
